@@ -6,3 +6,4 @@
 
 #Once ingame use ./nec to get started and configure.
 
+#Download the mod above and happy flipping!
