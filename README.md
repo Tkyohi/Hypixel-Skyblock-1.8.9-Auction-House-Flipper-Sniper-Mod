@@ -4,7 +4,7 @@
 
 #This Mod uses 1.8.9 and requires FORGE installed to load.
 
-#Once ingame use ./nec to get started and configure.
+#Once ingame use ./nec to get started and configure. When an avalaible auction comes up it will show up in the chat with the predicted profit margin and percentage - you can then click the link and insta buy the item!
 
 #Download the mod above and place it into your mods folder. 
 
